@@ -1,0 +1,35 @@
+{
+  "scripts": {
+    "build": "webpack --mode development",
+    "start": "webpack-dev-server --mode development"
+  },
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "bootstrap": "^4.6.0",
+    "dotenv": "^10.0.0",
+    "node-modules": "^1.0.1",
+    "react-announcement-ticker": "^1.0.1",
+    "react-bootstrap": "^1.6.1",
+    "react-hot-loader": "^4.13.0",
+    "react-icons": "^4.2.0",
+    "react-loader-spinner": "^4.0.0",
+    "react-sticky": "^6.0.3",
+    "store-js": "^2.0.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.1",
+    "webpack-dev-server": "^3.1.8"
+  }
+}

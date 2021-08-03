@@ -1,0 +1,52 @@
+.fealty-sticky-btn {
+  position: fixed;
+  right: 1%;
+  bottom: 6%;
+  float: right;
+}
+
+.fealty-btn {
+  background: #A92BFD;
+  color: white;
+  border: none;
+  /* padding: 16px 30px; */
+  border-radius: 25px;
+  font-weight: 500;
+  cursor: pointer;
+  width: 260px;
+  height: 50px;
+}
+
+.fealty-modal {
+  background: #A92BFD;
+  width: 260px;
+  height: 50px;
+}
+
+.fealty-sticky-modal {
+  position: fixed;
+  right: 1%;
+  bottom: 20%;
+}
+
+.store-name {
+  text-align: center;
+  font-weight: 600;
+}
+
+.tickr-title {
+  display: none !important;
+}
+
+#tickr-box {
+  background: transparent !important;
+}
+
+#tickr-scroll {
+  background: transparent !important;
+}
+
+#tickr-scroll li {
+  color: white !important;
+  font-weight: 500 !important;
+}
